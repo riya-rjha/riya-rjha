@@ -4,5 +4,9 @@ This is Riya Ranjan Jha, a undergraduate student pursuing Bachelor's in Technolo
 
 ### About Me ✨
 
+👯 I’m looking to collaborate on Open-source projects.
+🤝 I’m actively looking for interships related to Front End Web Development.
+💬 Ask me about Java, Web Dev (HTML, CSS, JavaScript, ReactJS), Technical Content.
+
 
 
