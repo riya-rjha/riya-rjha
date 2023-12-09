@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-
-This is Riya Ranjan Jha, a undergraduate student pursuing Bachelor's in Technology in Computer Science with specialization in Artificial Intelligence & Machine Learning. With a creative and determined and optimistic mindset, I am a goal oriented focused person. I am a Front End Web Developer currently exploring ReactJS and refining these learnings by creating Web Development Projects. While being a beginner in the world of Open Source, I am a Prompt Engineer too alongwith the gift of being proficient in Data Structures & Algorithms which I code in JAVA. Apart from my core skills, I am an avid reader as well as a Technical Content Writer. 
+This is Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology in Computer Science with a specialization in Artificial Intelligence & Machine Learning. With a creative, determined, and optimistic mindset, I am a goal-oriented focused person. I am a Front End Web Developer currently exploring ReactJS and refining these learnings by creating Web Development Projects. While being a beginner in the world of Open Source, I am a Prompt Engineer too along with the gift of being proficient in Data Structures & Algorithms which I code in JAVA. Apart from my core skills, I am an avid reader as well as a Technical Content Writer.
 
 <div id="header" align="center">
-  <img src="https://github.githubassets.com/assets/github-octocat-13c86b8b336d.png" width="100"/>
+  <img src="https://github.githubassets.com/assets/github-octocat-13c86b8b336d.png" />
 </div>
 
 <div id="badges">
@@ -16,24 +15,61 @@ This is Riya Ranjan Jha, a undergraduate student pursuing Bachelor's in Technolo
   </a>
 </div>
 
+<!-- Languages & Tools Section -->
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
   <img width=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">&nbsp;
-  
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">&nbsp;
+  <img width=50px src="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/full.css">&nbsp;
+  <img width=50px src="https://www.gsapjs.com/assets/logo.svg">&nbsp;
 </div>
 
+<!-- Badges Section -->
+<div>
+  <!-- LeetCode Badge -->
+  <a href="https://leetcode.com/riya-rjha/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
+  </a>
+  <!-- GeeksforGeeks Badge -->
+  <a href="https://auth.geeksforgeeks.org/user/riyarjha/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
+  </a>
+</div>
+
+<!-- My Stats Section -->
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=riya-rjha&theme=dark&background=000000)](https://git.io/streak-stats)
 
-### Languages & Tools
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riya-rjha)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Contributions & Stars Section -->
+### :star: My Contributions & Stars
 
-### 
+[![GitHub Stars](https://img.shields.io/github/stars/riya-rjha?style=for-the-badge)](https://github.com/riya-rjha?tab=stars)
+[![GitHub Contributions](https://img.shields.io/github/contributions/riya-rjha?style=for-the-badge)](https://github.com/riya-rjha)
+
+<!-- Learning & Projects Section -->
+### :books: Currently Learning & Projects
+
+- 🌱 I'm currently learning ReactJS & Tailwind CSS.
+- 🔭 I've worked on a full stack project consisting of MERN Stack on an individual basis.
+- 🚀 Some notable achievements: I have consistently been working on projects involving Frontend development. I have made around 30 JavaScript projects ranging from basic to advanced ones and am currently involved in creating basic react projects. 
+- 😄 Extras: I am a technical content writer and actively write articles on GeeksForGeeks.
+
+<!-- Articles Section -->
+### :pencil: My Articles
+
+1. Chatbots & Conversational UIs(#)
+   https://www.geeksforgeeks.org/design-practices-for-chatbots-and-conversational-ui/
+
+2. Graphic Designing (Tools & Best Practices)(#)
+   https://www.geeksforgeeks.org/types-of-graphic-design-tools-and-best-practices/
+
+3. WPS File Fomrat(#)
+   https://www.geeksforgeeks.org/wps-file-format/
