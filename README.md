@@ -22,7 +22,7 @@ This is Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technol
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
   </a>
 </div>
-
+<br>
 <!-- Languages & Tools Section -->
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -59,14 +59,3 @@ This is Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technol
 - 🚀 Some notable achievements: I have consistently been working on projects involving Frontend development. I have made around 30 JavaScript projects ranging from basic to advanced ones and am currently involved in creating basic react projects. 
 - 😄 Extras: I am a technical content writer and actively write articles on GeeksForGeeks.
 
-<!-- Articles Section -->
-### :pencil: My Articles
-
-1. Chatbots & Conversational UIs(#)
-   https://www.geeksforgeeks.org/design-practices-for-chatbots-and-conversational-ui/
-
-2. Graphic Designing (Tools & Best Practices)(#)
-   https://www.geeksforgeeks.org/types-of-graphic-design-tools-and-best-practices/
-
-3. WPS File Fomrat(#)
-   https://www.geeksforgeeks.org/wps-file-format/
