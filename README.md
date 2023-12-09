@@ -4,7 +4,7 @@
 This is Riya Ranjan Jha, a undergraduate student pursuing Bachelor's in Technology in Computer Science with specialization in Artificial Intelligence & Machine Learning. With a creative and determined and optimistic mindset, I am a goal oriented focused person. I am a Front End Web Developer currently exploring ReactJS and refining these learnings by creating Web Development Projects. While being a beginner in the world of Open Source, I am a Prompt Engineer too alongwith the gift of being proficient in Data Structures & Algorithms which I code in JAVA. Apart from my core skills, I am an avid reader as well as a Technical Content Writer. 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="100"/>
+  <img src="https://github.githubassets.com/assets/github-octocat-13c86b8b336d.png" width="100"/>
 </div>
 
 <div id="badges">
@@ -29,12 +29,11 @@ This is Riya Ranjan Jha, a undergraduate student pursuing Bachelor's in Technolo
   
 </div>
 
----
-
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=riya-rjha
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=riya-rjha&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
+### Languages & Tools
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riya-rjha)](https://github.com/anuraghazra/github-readme-stats)
 
+### 
