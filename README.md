@@ -13,6 +13,14 @@ This is Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technol
   <a href="https://twitter.com/RiyaJha25892">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <!-- LeetCode Badge -->
+  <a href="https://leetcode.com/riya-rjha/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
+  </a>
+  <!-- GeeksforGeeks Badge -->
+  <a href="https://auth.geeksforgeeks.org/user/riyarjha/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
+  </a>
 </div>
 
 <!-- Languages & Tools Section -->
@@ -31,17 +39,6 @@ This is Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technol
   <img width=50px src="https://www.gsapjs.com/assets/logo.svg">&nbsp;
 </div>
 
-<!-- Badges Section -->
-<div>
-  <!-- LeetCode Badge -->
-  <a href="https://leetcode.com/riya-rjha/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
-  </a>
-  <!-- GeeksforGeeks Badge -->
-  <a href="https://auth.geeksforgeeks.org/user/riyarjha/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
-  </a>
-</div>
 
 <!-- My Stats Section -->
 ### :fire: My Stats :
