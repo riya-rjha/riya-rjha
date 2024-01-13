@@ -35,8 +35,6 @@ This is Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technol
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
   <img width=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">&nbsp;
-  <img width=50px src="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/full.css">&nbsp;
-  <img width=50px src="https://www.gsapjs.com/assets/logo.svg">&nbsp;
 </div>
 
 
@@ -45,11 +43,6 @@ This is Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technol
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=riya-rjha&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<!-- Contributions & Stars Section -->
-### :star: My Contributions & Stars
-
-[![GitHub Stars](https://img.shields.io/github/stars/riya-rjha?style=for-the-badge)](https://github.com/riya-rjha?tab=stars)
-[![GitHub Contributions](https://img.shields.io/github/contributions/riya-rjha?style=for-the-badge)](https://github.com/riya-rjha)
 
 <!-- Learning & Projects Section -->
 ### :books: Currently Learning & Projects
