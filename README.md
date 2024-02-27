@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-This is Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology in Computer Science with a specialization in Artificial Intelligence & Machine Learning. With a creative, determined, and optimistic mindset, I am a goal-oriented focused person. I am a Front End Web Developer currently exploring ReactJS and refining these learnings by creating Web Development Projects. While being a beginner in the world of Open Source, I am a Prompt Engineer too along with the gift of being proficient in Data Structures & Algorithms which I code in JAVA. Apart from my core skills, I am an avid reader as well as a Technical Content Writer. I've written over 30 articles for GeeksForGeeks, which further demonstrates my ability to communicate technical ideas well. Even though I'm still getting to know the Open Source world, my promptness and engineering dedication are obvious. My experience with web programming has allowed me to become proficient with Tailwind CSS and gain a solid grasp of the MERN stack. I've developed my abilities and learnt about different aspects of front-end development through a number of ReactJS and JavaScript projects. I'm currently learning more about Redux and utilising it with ReactJS and Firebase to construct a basic Amazon Clone Website.
+This is Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology in Computer Science with a specialization in Artificial Intelligence & Machine Learning. With a creative, determined, and optimistic mindset, I am a goal-oriented focused person. Probably everyone in this world is running short of time, so to give an insight about myself to you, without wasting much of your time here are some short & crips points about me!
+
+- Front End Web Developer with a focus on exploring ReactJS and enhancing skills through Web Development Projects.
+- Beginner in Open Source community, but recognized as a Prompt Engineer with proficiency in Data Structures & Algorithms (coded in JAVA).
+- Avid reader and Technical Content Writer, having authored over 30 articles for GeeksForGeeks, showcasing strong communication skills in conveying technical concepts effectively.
+- Proficient with Tailwind CSS and adept at utilizing the MERN stack in web development projects.
+- Experienced in ReactJS and JavaScript projects, currently expanding knowledge on Redux and integrating it with ReactJS and Firebase for developing a basic Amazon Clone Website.
 
 
 <div id="header" align="center">
