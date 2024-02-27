@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-This is Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology in Computer Science with a specialization in Artificial Intelligence & Machine Learning. With a creative, determined, and optimistic mindset, I am a goal-oriented focused person. I am a Front End Web Developer currently exploring ReactJS and refining these learnings by creating Web Development Projects. While being a beginner in the world of Open Source, I am a Prompt Engineer too along with the gift of being proficient in Data Structures & Algorithms which I code in JAVA. Apart from my core skills, I am an avid reader as well as a Technical Content Writer.
+This is Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology in Computer Science with a specialization in Artificial Intelligence & Machine Learning. With a creative, determined, and optimistic mindset, I am a goal-oriented focused person. I am a Front End Web Developer currently exploring ReactJS and refining these learnings by creating Web Development Projects. While being a beginner in the world of Open Source, I am a Prompt Engineer too along with the gift of being proficient in Data Structures & Algorithms which I code in JAVA. Apart from my core skills, I am an avid reader as well as a Technical Content Writer. I've written over 30 articles for GeeksForGeeks, which further demonstrates my ability to communicate technical ideas well. Even though I'm still getting to know the Open Source world, my promptness and engineering dedication are obvious. My experience with web programming has allowed me to become proficient with Tailwind CSS and gain a solid grasp of the MERN stack. I've developed my abilities and learnt about different aspects of front-end development through a number of ReactJS and JavaScript projects. I'm currently learning more about Redux and utilising it with ReactJS and Firebase to construct a basic Amazon Clone Website.
+
 
 <div id="header" align="center">
   <img src="https://github.githubassets.com/assets/github-octocat-13c86b8b336d.png" />
@@ -51,3 +52,9 @@ This is Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technol
 - 🚀 Some notable achievements: I have consistently been working on projects involving Frontend development. I have made around 30 JavaScript projects ranging from basic to advanced ones and am currently involved in creating basic react projects. 
 - 😄 Extras: I am a technical content writer and actively write articles on GeeksForGeeks.
 
+ - Add ons (In the last 3-4 months)
+
+ - 🌱 I'm currently learning Redux.
+- 🔭 I've worked on 2 basic full stack projects consisting of MERN Stack & honed my frontend designing skills through reactjs.
+- 🚀 Some notable achievements: I have published a good number of articles for GeeksForGeeks.
+- 😄 Extras: I have earned the much proficient badge from Postman Student Academy for being a Postman Technical Student Expert.
