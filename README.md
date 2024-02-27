@@ -52,7 +52,7 @@ This is Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technol
 - 🚀 Some notable achievements: I have consistently been working on projects involving Frontend development. I have made around 30 JavaScript projects ranging from basic to advanced ones and am currently involved in creating basic react projects. 
 - 😄 Extras: I am a technical content writer and actively write articles on GeeksForGeeks.
 
- - Add ons (In the last 3-4 months)
+ ### :books: Add ons (In the last 3-4 months)
 
  - 🌱 I'm currently learning Redux.
 - 🔭 I've worked on 2 basic full stack projects consisting of MERN Stack & honed my frontend designing skills through reactjs.
