@@ -53,14 +53,7 @@ This is Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technol
 <!-- Learning & Projects Section -->
 ### :books: Currently Learning & Projects
 
-- 🌱 I'm currently learning ReactJS & Tailwind CSS.
-- 🔭 I've worked on a full stack project consisting of MERN Stack on an individual basis.
-- 🚀 Some notable achievements: I have consistently been working on projects involving Frontend development. I have made around 30 JavaScript projects ranging from basic to advanced ones and am currently involved in creating basic react projects. 
-- 😄 Extras: I am a technical content writer and actively write articles on GeeksForGeeks.
-
- ### :books: Add ons (In the last 3-4 months)
-
- - 🌱 I'm currently learning Redux.
+ - 🌱 I'm currently learning Redux & making an Amazon Clone.
 - 🔭 I've worked on 2 basic full stack projects consisting of MERN Stack & honed my frontend designing skills through reactjs.
-- 🚀 Some notable achievements: I have published a good number of articles for GeeksForGeeks.
+- 🚀 Some notable achievements: I have published a good number of articles for GeeksForGeeks and work as a technical content writer for them.
 - 😄 Extras: I have earned the much proficient badge from Postman Student Academy for being a Postman Technical Student Expert.
