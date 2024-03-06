@@ -62,25 +62,6 @@ This is Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technol
 
 ![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=riya-rjha&show_icons=true&theme=dark)
 
-### :zap: Recent Activity:
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/riya-rjha/repo-name/pull/123) in [riya-rjha/repo-name](https://github.com/riya-rjha/repo-name)
-2. 💼 Opened issue [#456](https://github.com/riya-rjha/repo-name/issues/456) in [riya-rjha/repo-name](https://github.com/riya-rjha/repo-name)
-3. 🛠️ Released version 1.0.0 of [repo-name](https://github.com/riya-rjha/repo-name)
-4. ❗️ Closed issue [#789](https://github.com/riya-rjha/repo-name/issues/789) in [riya-rjha/repo-name](https://github.com/riya-rjha/repo-name)
-<!--END_SECTION:activity-->
-
-### :star: My Featured Repositories:
-
-<!--START_SECTION:repos-->
-1. [Project-Name](https://github.com/riya-rjha/project-name) - Short description about the project.
-2. [Project-Name](https://github.com/riya-rjha/project-name) - Short description about the project.
-3. [Project-Name](https://github.com/riya-rjha/project-name) - Short description about the project.
-<!--END_SECTION:repos-->
 
 Feel free to explore my repositories and connect with me on [LinkedIn](www.linkedin.com/in/riya-ranjan-jha-751688249) or [Twitter](https://twitter.com/RiyaJha25892)!
 
-If you have any questions or just want to chat, feel free to reach out
-
-. 😊
