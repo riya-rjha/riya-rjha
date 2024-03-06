@@ -47,7 +47,7 @@ This is Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technol
 <!-- My Stats Section -->
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/riya-rhaDenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=riya-rjhaDenverCoder1)](https://git.io/streak-stats)
 
 
 <!-- Learning & Projects Section -->
