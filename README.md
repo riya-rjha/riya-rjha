@@ -7,6 +7,7 @@ This is Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technol
 - Avid reader and Technical Content Writer, having authored over 30 articles for GeeksForGeeks, showcasing strong communication skills in conveying technical concepts effectively.
 - Proficient with Tailwind CSS and adept at utilizing the MERN stack in web development projects.
 - Experienced in ReactJS and JavaScript projects, currently expanding knowledge on Redux and integrating it with ReactJS and Firebase for developing a basic Amazon Clone Website.
+- Learning new technologies through Python.
 
 
 <div id="header" align="center">
