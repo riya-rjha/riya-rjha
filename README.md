@@ -2,12 +2,12 @@
 
 This is Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology in Computer Science with a specialization in Artificial Intelligence & Machine Learning. With a creative, determined, and optimistic mindset, I am a goal-oriented focused person. Probably everyone in this world is running short of time, so to give an insight about myself to you, without wasting much of your time here are some short & crips points about me!
 
-- Front End Web Developer with a focus on exploring ReactJS and enhancing skills through Web Development Projects.
-- Beginner in Open Source community, but recognized as a Prompt Engineer with proficiency in Data Structures & Algorithms (coded in JAVA).
-- Avid reader and Technical Content Writer, having authored over 30 articles for GeeksForGeeks, showcasing strong communication skills in conveying technical concepts effectively.
-- Proficient with Tailwind CSS and adept at utilizing the MERN stack in web development projects.
-- Experienced in ReactJS and JavaScript projects, currently expanding knowledge on Redux and integrating it with ReactJS and Firebase for developing a basic Amazon Clone Website.
-- Learning new technologies through Python.
+- Front End Web Developer with a focus on exploring ReactJS and enhancing skills through Web Development Projects
+- Beginner in Open Source community, but recognized as a Prompt Engineer with proficiency in Data Structures & Algorithms (coded in JAVA)
+- Avid reader and Technical Content Writer, having authored over 30 articles for GeeksForGeeks, showcasing strong communication skills in conveying technical concepts effectively
+- Proficient with Tailwind CSS and adept at utilizing the MERN stack in web development projects
+- Experienced in ReactJS and JavaScript projects, currently expanding knowledge on Redux and integrating it with ReactJS and Firebase for developing a basic Amazon Clone Website
+- Learning new technologies through Python
 
 
 <div id="header" align="center">
