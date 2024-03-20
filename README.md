@@ -3,10 +3,6 @@
 I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology in Computer Science with a specialization in Artificial Intelligence & Machine Learning. With a creative, determined, and optimistic mindset, I am a goal-oriented focused person.  I'm into Front End Web Development, especially digging into ReactJS, and I'm honing my skills through projects. I'm new to the Open Source scene but known for my coding chops in JAVA. I'm also an avid reader and love writing technical content, with over 30 articles on GeeksForGeeks. I'm handy with Tailwind CSS and love working in MERN stack. Currently, I'm delving into ReactJS, JavaScript, Redux, and Firebase to build an Amazon Clone Website. And, of course, always learning more through Python. 
 
 
-<div id="header" align="center">
-  <img src="https://github.githubassets.com/assets/github-octocat-13c86b8b336d.png" />
-</div>
-
 <div id="badges">
   <a href="www.linkedin.com/in/riya-ranjan-jha-751688249">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
