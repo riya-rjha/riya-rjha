@@ -20,13 +20,13 @@ I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology
 
 <br>
 <!-- My Stats Section -->
-### :fire: My Stats :
+ :fire:  My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=riya-rjha&theme=dark)](https://git.io/streak-stats)
 
 <br>
 <!-- Learning & Projects Section -->
-### :books: Currently Learning & Projects
+ :books: Currently Learning & Projects
 
 - 🌱 I'm currently learning Redux & making an Amazon Clone.
 - 🔭 I've worked on 2 basic full stack projects consisting of MERN Stack & honed my frontend designing skills through reactjs.
