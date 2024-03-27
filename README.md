@@ -17,7 +17,7 @@ I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
   <img width=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">&nbsp;
   <img width=50px src="https://redux.js.org/img/redux.svg">&nbsp;
-  <img width=50px src="https://tailwindcss.com/_next/static/media/twitter-square-24x24.e6e7d74d35d4c374b4c71e74389a1b6c.png">&nbsp;
+
 
 </div>
 
