@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology in Computer Science with a specialization in Artificial Intelligence & Machine Learning. With a creative, determined, and optimistic mindset, I am a goal-oriented focused person.  I'm into Front End Web Development, especially digging into ReactJS, and I'm honing my skills through projects. I'm new to the Open Source scene but known for my coding chops in JAVA. I'm also an avid reader and love writing technical content, with over 30 articles on GeeksForGeeks. I'm handy with Tailwind CSS and love working in MERN stack. Currently, I'm delving into ReactJS, JavaScript, Redux, and Firebase to build an Amazon Clone Website. And, of course, always learning more through Python.  
+I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology in Computer Science with a specialization in Artificial Intelligence & Machine Learning. With a creative, determined, and optimistic mindset, I am a goal-oriented focused person.  I'm into Front End Web Development, especially digging into ReactJS, and I'm honing my skills through projects. I'm new to the Open Source scene but known for my coding chops in JAVA. I'm also an avid reader and love writing technical content, with over 30 articles on GeeksForGeeks. I'm handy with Tailwind CSS and love working in MERN stack. I've worked in ReactJS, JavaScript, Redux, and Firebase to build an Amazon Clone Website. And, of course, always learning more through Python. Currently, I am learning TypeScript & Next.js to build fascinating websites with amazing transitions.  
 
 
 
@@ -33,8 +33,8 @@ I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology
 
 ### :books: Currently Learning & Projects
 
-- 🌱 I'm currently learning Redux & making an Amazon Clone.
-- 🔭 I've worked on 2 basic full stack projects consisting of MERN Stack & honed my frontend designing skills through reactjs.
+- 🌱 I'm currently learning TyppeScript & Next.js.
+- 🔭 I've worked on 2 basic full stack projects consisting of MERN Stack & honed my frontend designing skills through reactjs. Recenlty wrapped up building an Amazon Clone too!
 - 🚀 Some notable achievements: I have published a good number of articles for GeeksForGeeks and work as a technical content writer for them.
 - 😄 Extras: I have earned the much proficient badge from Postman Student Academy for being a Postman Technical Student Expert.
 
