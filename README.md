@@ -3,7 +3,6 @@
 I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology in Computer Science with a specialization in Artificial Intelligence & Machine Learning. With a creative, determined, and optimistic mindset, I am a goal-oriented focused person.  I'm into Front End Web Development, especially digging into ReactJS, and I'm honing my skills through projects. I'm new to the Open Source scene but known for my coding chops in JAVA. I'm also an avid reader and love writing technical content, with over 30 articles on GeeksForGeeks. I'm handy with Tailwind CSS and love working in MERN stack. I've worked in ReactJS, JavaScript, Redux, and Firebase to build an Amazon Clone Website. And, of course, always learning more through Python. Currently, I am learning TypeScript & Next.js to build fascinating websites with amazing transitions.  
 
 
-
 <br>
 <!-- Languages & Tools Section -->
 <div>
