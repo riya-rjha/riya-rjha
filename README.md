@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology in Computer Science with a specialization in Artificial Intelligence & Machine Learning. 
+I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology in Computer Science with a specialization in Artificial Intelligence & Machine Learning. With a good experience in the field of Content Writing, I also possess good knowledge in the realms of Design & Development. 
 
 
-### :books: Currently Learning & Projects
+### :books: About Me
 
-- 🌱 I'm currently learning TyppeScript & Next.js.
-- 🔭 I've worked on 2 basic full stack projects consisting of MERN Stack & honed my frontend designing skills through reactjs. Recenlty wrapped up building an Amazon Clone too!
-- 🚀 Some notable achievements: I have published a good number of articles for GeeksForGeeks and work as a technical content writer for them.
-- 😄 Extras: I have earned the much proficient badge from Postman Student Academy for being a Postman Technical Student Expert.
+- 🔭 I am currently working as a Freelance Technical Content Writer at GeeksForGeeks.
+- 🌱 I'm currently learning TypeScript & Next.js.
+- 🚀 I am a Frontend Developer with a fundamental understanding of Backend.
+- 😄 I am a Postman Student Technical Expert.
+- 📽️ When not coding, you'll find me reading books & reading political news.
 
 
 <br>
