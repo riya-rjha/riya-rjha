@@ -21,13 +21,12 @@ I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology
 ## ✨ Languages & Tools
 
 <!-- Languages & Tools Section -->
-
 <table>
     <tr>
         <td><a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" title="React.js" width="50" height="50" ></a></td>
         <td><a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="Javascript" title="Javascript" width="50" height="50"/></a></td>
         <td><a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm" width="50" height="50"/> </a> </td>
-        <td><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/120140324-2a4b6b00-c1df-11eb-8522-2b44b9057b8a.png" alt="TypeScript" title="TypeScript" width="50" height="50"></a></td>
+        <td><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="50" height="50"></a></td>
         <td><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" title="Tailwind CSS" width="50" height="50"/> </a> </td>
         <td><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma" width="50" height="50"/> </a> </td>
     </tr>
@@ -52,10 +51,9 @@ I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology
         <td><a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook" width="50" height="50" /> </a> </td>
         <td><a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" width="50" height="50"/> </a> </td>
         <td><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://code.visualstudio.com/assets/images/code-stable.png"  alt="VS Code" title="VS Code" width="50" height="50" ></a></td>
-        <td><a href="https://sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" alt="Sublime Text" title="Sublime Text" width="50" height="50"/> </a> </td>
-        <td><a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png"  alt="IntelliJ Idea" title="IntelliJ Idea" width="50" height="50" ></a></td> 
     </tr>
 </table>
+
 
 
 ## 🌐 Socials
