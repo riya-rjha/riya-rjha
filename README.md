@@ -21,20 +21,42 @@ I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology
 ## ✨ Languages & Tools
 
 <!-- Languages & Tools Section -->
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
-  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
-  <img width=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">&nbsp;
-  <img width=50px src="https://redux.js.org/img/redux.svg">&nbsp;
 
+<table>
+    <tr>
+        <td><a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" title="React.js" width="50" height="50" ></a></td>
+        <td><a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="Javascript" title="Javascript" width="50" height="50"/></a></td>
+        <td><a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm" width="50" height="50"/> </a> </td>
+        <td><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/120140324-2a4b6b00-c1df-11eb-8522-2b44b9057b8a.png" alt="TypeScript" title="TypeScript" width="50" height="50"></a></td>
+        <td><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" title="Tailwind CSS" width="50" height="50"/> </a> </td>
+        <td><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma" width="50" height="50"/> </a> </td>
+    </tr>
+    <tr>
+        <td><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" width="50" height="50"/> </a></td>
+        <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML" width="50" height="50"/> </a></td>
+        <td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS" width="50" height="50"/> </a> </td>
+        <td><a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" width="50" height="50"/> </a> </td>
+        <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" width="50" height="50"/> </a> </td>
+        <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" width="50" height="50"/></a></td>
+    </tr>
+    <tr>
+        <td><a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux" width="50" height="50"/> </a> </td>
+        <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" title="MySQL" width="50" height="50"/> </a></td>
+        <td><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite" width="50" height="50"/> </a> </td>
+        <td><a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/Node.js.svg"  alt="Node.js" title="Node.js" width="50" height="50" ></a></td>
+        <td><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"  alt="Express" title="Express" width="50" height="50" ></a></td>
+        <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"  alt="MongoDB" title="MongoDB" width="50" height="50" ></a></td>
+    </tr>
+    <tr>
+        <td><a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"  alt="Postman" title="Postman" width="50" height="50" ></a></td>
+        <td><a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook" width="50" height="50" /> </a> </td>
+        <td><a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" width="50" height="50"/> </a> </td>
+        <td><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://code.visualstudio.com/assets/images/code-stable.png"  alt="VS Code" title="VS Code" width="50" height="50" ></a></td>
+        <td><a href="https://sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" alt="Sublime Text" title="Sublime Text" width="50" height="50"/> </a> </td>
+        <td><a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png"  alt="IntelliJ Idea" title="IntelliJ Idea" width="50" height="50" ></a></td> 
+    </tr>
+</table>
 
-</div>
 
 ## 🌐 Socials
 
