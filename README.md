@@ -70,5 +70,8 @@ I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology
 ![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=riya-rjha&show_icons=true&theme=dark)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riya-rjha&layout=donut)](https://github.com/riya-rjha/github-readme-stats)
+
+
 Feel free to explore my repositories and connect with me on [LinkedIn](www.linkedin.com/in/riya-ranjan-jha-751688249) or [Twitter](https://twitter.com/RiyaJha25892)!
 
