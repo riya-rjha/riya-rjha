@@ -3,13 +3,13 @@
 I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology in Computer Science with a specialization in Artificial Intelligence & Machine Learning. With a good experience in the field of Content Writing, I also possess good knowledge in the realms of Design & Development. 
 
 
-### :books: About Me
+### 💫 About Me
 
 - 🔭 I am currently working as a Freelance Technical Content Writer at GeeksForGeeks.
 - 🌱 I'm currently learning TypeScript & Next.js.
 - 🚀 I am a Frontend Developer with a fundamental understanding of Backend.
 - 😄 I am a Postman Student Technical Expert.
-- 📽️ When not coding, you'll find me reading books & reading political news.
+- 📚 When not coding, you'll find me reading books & reading political news.
 
 
 ### 🌐 Socials
@@ -32,6 +32,9 @@ I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology
 </div>
 
 <br>
+
+### ✨ Languages & Tools
+
 <!-- Languages & Tools Section -->
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
