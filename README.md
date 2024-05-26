@@ -12,7 +12,6 @@ I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology
 - 😄 I am a Postman Student Technical Expert.
 - 📚 When not coding, you'll find me reading books & reading political news.
 
-<br>
 
 ## 🌐 Socials
 
@@ -33,7 +32,6 @@ I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology
   </a>
 </div>
 
-<br>
 
 ## ✨ Languages & Tools
 
