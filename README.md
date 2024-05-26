@@ -51,7 +51,7 @@ I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology
         <td><a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook" width="50" height="50" /> </a> </td>
         <td><a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" width="50" height="50"/> </a> </td>
         <td><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://code.visualstudio.com/assets/images/code-stable.png"  alt="VS Code" title="VS Code" width="50" height="50" ></a></td>
- <td><a href="https://www.google.com/search?q=firebase" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/184129655-8e3dc189-7799-44c2-a2cf-d304d48a3e8e.png" alt="Firebase" title="Firebase" width="50" height="50"></a></td>
+<td><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/184129655-8e3dc189-7799-44c2-a2cf-d304d48a3e8e.png" alt="Firebase" title="Firebase" width="50" height="50"></a></td>
 
 <td><a href="https://www.google.com/search?q=nextjs" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/10167994/68087734-88ec7c00-fe6a-11e9-8f73-aeffb97a1f0f.png" alt="Next.js" title="Next.js" width="50" height="50"></a></td>
 
