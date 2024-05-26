@@ -59,7 +59,7 @@ I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology
 
 
 
-    </tr>
+</tr>
 </table>
 
 
