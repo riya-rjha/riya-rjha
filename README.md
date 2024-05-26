@@ -67,8 +67,7 @@ I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology
 
 ## :chart_with_upwards_trend: GitHub Analytics:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riya-rjha&layout=donut)](https://github.com/riya-rjha/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riya-rjha&layout=donut)](https://github.com/riya-rjha/github-readme-stats) &nbsp;&nbsp;
 ![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=riya-rjha&show_icons=true&theme=dark)
 
 
