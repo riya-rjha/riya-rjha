@@ -3,7 +3,7 @@
 I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology in Computer Science with a specialization in Artificial Intelligence & Machine Learning. With a good experience in the field of Content Writing, I also possess good knowledge in the realms of Design & Development. 
 
 <br>
-<br>
+
 
 ## 💫 About Me
 
@@ -13,7 +13,6 @@ I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology
 - 😄 I am a Postman Student Technical Expert.
 - 📚 When not coding, you'll find me reading books & reading political news.
 
-<br>
 <br>
 
 ## 🌐 Socials
@@ -36,7 +35,7 @@ I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology
 </div>
 
 <br>
-<br>
+
 ## ✨ Languages & Tools
 
 <!-- Languages & Tools Section -->
