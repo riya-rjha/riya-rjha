@@ -52,7 +52,9 @@ I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology
 </div>
 
 <br>
-<!-- My Stats Section -->
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=riya-rjha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ##  :fire: My Stats 
 
