@@ -13,7 +13,6 @@ I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology
 - 📚 When not coding, you'll find me reading books & reading political news.
 
 
-<br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=riya-rjha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
