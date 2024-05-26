@@ -12,6 +12,25 @@ I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology
 - 📽️ When not coding, you'll find me reading books & reading political news.
 
 
+### 🌐 Socials
+
+<div id="badges">
+  <a href="www.linkedin.com/in/riya-ranjan-jha-751688249">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/RiyaJha25892">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <!-- LeetCode Badge -->
+  <a href="https://leetcode.com/riya-rjha/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
+  </a>
+  <!-- GeeksforGeeks Badge -->
+  <a href="https://auth.geeksforgeeks.org/user/riyarjha/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
+  </a>
+</div>
+
 <br>
 <!-- Languages & Tools Section -->
 <div>
@@ -40,22 +59,7 @@ I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology
 <!-- Learning & Projects Section -->
 
 
-<div id="badges">
-  <a href="www.linkedin.com/in/riya-ranjan-jha-751688249">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/RiyaJha25892">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <!-- LeetCode Badge -->
-  <a href="https://leetcode.com/riya-rjha/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
-  </a>
-  <!-- GeeksforGeeks Badge -->
-  <a href="https://auth.geeksforgeeks.org/user/riyarjha/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
-  </a>
-</div>
+
 
 
 ### :chart_with_upwards_trend: GitHub Analytics:
