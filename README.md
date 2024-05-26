@@ -53,7 +53,9 @@ I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology
         <td><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://code.visualstudio.com/assets/images/code-stable.png"  alt="VS Code" title="VS Code" width="50" height="50" ></a></td>
         <td><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/452/firebase.png" alt="Firebase" title="Firebase" width="50" height="50"></a></td>
 
-<td><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/10167994/68087734-88ec7c00-fe6a-11e9-8f73-aeffb97a1f0f.png" alt="Next.js" title="Next.js" width="50" height="50"></a></td>
+        
+<td><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="Next.js" title="Next.js" width="50" height="50"></a></td>
+
 
 
 
