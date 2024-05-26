@@ -1,9 +1,11 @@
-### Hi there 👋
+## Heyy! 👋
 
 I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology in Computer Science with a specialization in Artificial Intelligence & Machine Learning. With a good experience in the field of Content Writing, I also possess good knowledge in the realms of Design & Development. 
 
+<br>
+<br>
 
-### 💫 About Me
+## 💫 About Me
 
 - 🔭 I am currently working as a Freelance Technical Content Writer at GeeksForGeeks.
 - 🌱 I'm currently learning TypeScript & Next.js.
@@ -11,8 +13,10 @@ I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology
 - 😄 I am a Postman Student Technical Expert.
 - 📚 When not coding, you'll find me reading books & reading political news.
 
+<br>
+<br>
 
-### 🌐 Socials
+## 🌐 Socials
 
 <div id="badges">
   <a href="www.linkedin.com/in/riya-ranjan-jha-751688249">
@@ -32,8 +36,8 @@ I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology
 </div>
 
 <br>
-
-### ✨ Languages & Tools
+<br>
+## ✨ Languages & Tools
 
 <!-- Languages & Tools Section -->
 <div>
@@ -54,7 +58,7 @@ I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology
 <br>
 <!-- My Stats Section -->
 
-###  :fire: My Stats 
+##  :fire: My Stats 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=riya-rjha&theme=dark)](https://git.io/streak-stats)
 
@@ -65,7 +69,7 @@ I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology
 
 
 
-### :chart_with_upwards_trend: GitHub Analytics:
+## :chart_with_upwards_trend: GitHub Analytics:
 
 ![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=riya-rjha&show_icons=true&theme=dark)
 
