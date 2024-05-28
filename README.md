@@ -88,7 +88,6 @@ I am Riya Ranjan Jha, an undergraduate student pursuing Bachelor's in Technology
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=riya-rjha&theme=dark)](https://git.io/streak-stats)
 
-<br>
 <!-- Learning & Projects Section -->
 
 
