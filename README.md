@@ -1,6 +1,6 @@
 ## Heyy! 👋
 
-I am Riya Ranjan Jha, an undergraduate student pursuing B.Tech in Computer Science with a specialization in Artificial Intelligence & Machine Learning. With a good experience in the field of Content Writing, I also possess good knowledge in the realms of Design & Development.  
+I am Riya Ranjan Jha, an undergraduate student pursuing B.Tech in Computer Science with a specialization in Artificial Intelligence & Machine Learning. With a good experience in the field of Content Writing, I also possess good knowledge in the realms of Design & Development. 
 
 
 ## 💫 About Me
