@@ -85,12 +85,8 @@ I am Riya Ranjan Jha, an undergraduate student pursuing B.Tech in Computer Scien
 
 ##  :fire: My Stats 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=riya-rjha&theme=dark)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=riya-rjha" alt="GitHub Streak" /></a>
 <!-- Learning & Projects Section -->
-
-
-
 
 
 ## :chart_with_upwards_trend: GitHub Analytics:
