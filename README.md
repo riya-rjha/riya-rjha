@@ -5,10 +5,10 @@ I am Riya Ranjan Jha, an undergraduate student pursuing B.Tech in Computer Scien
 
 ## 💫 About Me
 
-- 🔭 I am currently working as a Freelance Technical Content Writer at GeeksForGeeks.
+- 🔭 I'm currently working as a Freelance Technical Content Writer at GeeksForGeeks.
 - 🌱 I'm currently learning TypeScript & Next.js.
-- 🚀 I am a proficient Frontend Developer with a fundamental understanding of Backend.
-- 😄 I am a Postman Student Technical Expert.
+- 🚀 I'm a proficient Frontend Developer with a fundamental understanding of Backend.
+- 😄 I'm a Postman Student Technical Expert.
 - 📚 When not coding, you'll find me reading books & political news.
 
 
