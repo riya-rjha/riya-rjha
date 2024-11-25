@@ -97,3 +97,5 @@ I am Riya Ranjan Jha, an undergraduate student pursuing B.Tech in Computer Scien
 
 Feel free to explore my repositories and connect with me on [LinkedIn](www.linkedin.com/in/riya-ranjan-jha-751688249) or [Twitter](https://twitter.com/RiyaJha25892)!
 
+Here's my resume for more details: <a href="https://drive.google.com/file/d/1U2ShHk63sIz6AXO7hti7NOxo7zRweOqA/view?usp=sharing" target="_blank">RESUME</a>
+
