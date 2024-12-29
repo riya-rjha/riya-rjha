@@ -9,7 +9,7 @@ Here’s the updated content based on your request:
 - 🔭 Previously worked as a Freelance Technical Content Writer at GeeksForGeeks.
 - 🌱 Currently enhancing Frontend Development skills, with a focus on documentation & DSA.
 - 🚀 Strong expertise in the MERN stack and Frontend Development.
-- 💻 Currently working on <a href="https://github.com/riya-rjha/TrendSpire-E-CommerceSite">TrendSpire</a>.
+- 💻 Currently working on <a href="https://github.com/riya-rjha/TrendSpire-E-CommerceSite" style="font-size: 1.5rem; font-weight: bold; color: #ff6600; text-decoration: none; letter-spacing: 1px; transition: color 0.3s, transform 0.3s;" onmouseover="this.style.color='#ff3300'; this.style.transform='scale(1.1)';" onmouseout="this.style.color='#ff6600'; this.style.transform='scale(1)';">TrendSpire</a>
 - 📚 Passionate about reading books and staying updated on political news.
 
 ## 🏆 GitHub Trophies
