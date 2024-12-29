@@ -1,17 +1,16 @@
 ## Heyy! 👋
 
-I am Riya Ranjan Jha, an undergraduate student pursuing B.Tech in Computer Science with a specialization in Artificial Intelligence & Machine Learning. With a good experience in the field of Development, I also possess good knowledge in the realms of Designining & Technical Content Writing. 
-
+I’m Riya Ranjan Jha, an undergraduate student pursuing a B.Tech in Computer Science and Engineering. With hands-on experience in MERN Stack, I have a solid foundation in Web Development and Technical Content Writing.
 
 ## 💫 About Me
 
-- 🔭 I'm currently working as a Freelance Technical Content Writer at GeeksForGeeks.
-- 🌱 I'm currently learning TypeScript & Next.js.
-- 🚀 I'm a proficient Frontend Developer with a fundamental understanding of Backend.
-- 😄 I'm a Postman Student Technical Expert.
-- 📚 When not coding, you'll find me reading books & political news.
+Here’s the updated content based on your request:
 
-
+- 🔭 Previously worked as a Freelance Technical Content Writer at GeeksForGeeks.
+- 🌱 Currently enhancing Frontend Development skills, with a focus on documentation & DSA.
+- 🚀 Strong expertise in the MERN stack and Frontend Development.
+- 💻 Currently working on <a href="https://github.com/riya-rjha/TrendSpire-E-CommerceSite">TrendSpire</a>.
+- 📚 Passionate about reading books and staying updated on political news.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=riya-rjha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -36,14 +35,14 @@ I am Riya Ranjan Jha, an undergraduate student pursuing B.Tech in Computer Scien
 ## 🌐 Socials
 
 <div id="badges">
-  <a href="www.linkedin.com/in/riya-ranjan-jha-751688249">
+  <a href="www.linkedin.com/in/riyarjha">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/RiyaJha25892">
+  <a href="https://x.com/riya_rjha">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <!-- LeetCode Badge -->
-  <a href="https://leetcode.com/riya-rjha/" target="_blank">
+  <a href="https://leetcode.com/riyarjha" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
   </a>
   <!-- GeeksforGeeks Badge -->
