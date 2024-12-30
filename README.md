@@ -59,12 +59,11 @@ Here’s the updated content based on your request:
 
 
 ## :chart_with_upwards_trend: GitHub Analytics:
-
 ![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=riya-rjha&show_icons=true&theme=dark)&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riya-rjha&layout=donut)](https://github.com/riya-rjha/github-readme-stats) 
 
 
-Feel free to explore my repositories and connect with me on [LinkedIn](www.linkedin.com/in/riya-ranjan-jha-751688249) or [Twitter](https://twitter.com/RiyaJha25892)!
+Feel free to explore my repositories and connect with me on [LinkedIn](www.linkedin.com/in/riyarjha) or [Twitter](https://x.com/riya_rjha)!
 
-Here's my resume for more details: <a href="https://drive.google.com/file/d/1U2ShHk63sIz6AXO7hti7NOxo7zRweOqA/view?usp=sharing" target="_blank">RESUME</a>
+Here's my resume for more details: <a href="https://drive.google.com/file/d/1N_595NLXrAQzfKQ1I0dxC5oOpjTzNkWr/view" target="_blank">RESUME</a>
 
