@@ -4,7 +4,6 @@ I’m Riya Ranjan Jha, an undergraduate student pursuing a B.Tech in Computer Sc
 
 ## 💫 About Me
 
-Here’s the updated content based on your request:
 
 - 🔭 Previously worked as a Freelance Technical Content Writer at GeeksForGeeks.
 - 🌱 Currently enhancing Frontend Development skills, with a focus on documentation & DSA.
