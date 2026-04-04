@@ -1,15 +1,15 @@
 ## Heyy! 👋
 
-I’m Riya Ranjan Jha, an undergraduate student pursuing a B.Tech in Computer Science and Engineering. With hands-on experience in MERN Stack, I have a solid foundation in Web Development and Technical Content Writing.
+I am a Software Developer with a strong passion for backend development using Java and Spring Boot. I enjoy building projects, diving deep into the intricacies of Java, and constantly expanding my knowledge in Spring and microservices while genuinely enjoying the learning process. Alongside development, I have a growing interest in designing distributed systems and understanding how large-scale applications are built and managed.
 
 ## 💫 About Me
 
 
-- 🔭 Previously worked as a Freelance Technical Content Writer at GeeksForGeeks.
-- 🌱 Currently enhancing Frontend Development skills, with a focus on documentation & DSA.
-- 🚀 Strong expertise in the MERN stack and Frontend Development.
-- 💻 Currently working on <a href="https://github.com/riya-rjha/TrendSpire-E-CommerceSite" style="font-size: 1.5rem; font-weight: bold; color: #ff6600; text-decoration: none; letter-spacing: 1px; transition: color 0.3s, transform 0.3s;" onmouseover="this.style.color='#ff3300'; this.style.transform='scale(1.1)';" onmouseout="this.style.color='#ff6600'; this.style.transform='scale(1)';">TrendSpire</a>
-- 📚 Passionate about reading books and staying updated on political news.
+- authored multiple articles on GeeksForGeeks and other technical content writing platforms.
+- currently enhancing Java Backend Development skills, with a focus on building scalable applications.
+- strong expertise in the MERN stack and Frontend Development.
+- currently working on <a href="https://github.com/riya-rjha/TrendSpire-E-CommerceSite" style="font-size: 1.5rem; font-weight: bold; color: #ff6600; text-decoration: none; letter-spacing: 1px; transition: color 0.3s, transform 0.3s;" onmouseover="this.style.color='#ff3300'; this.style.transform='scale(1.1)';" onmouseout="this.style.color='#ff6600'; this.style.transform='scale(1)';">TrendSpire</a>
+- passionate about reading books and staying updated on political news.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=riya-rjha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
