@@ -1,15 +1,29 @@
 ## Heyy! 👋
 
-I am a Software Developer with a strong passion for backend development using Java and Spring Boot. I enjoy building projects, diving deep into the intricacies of Java, and constantly expanding my knowledge in Spring and microservices while genuinely enjoying the learning process. Alongside development, I have a growing interest in designing distributed systems and understanding how large-scale applications are built and managed.
-
 ## 💫 About Me
 
+I’m a Software Developer with a strong focus on **Backend Development using Java and Spring Boot**. I enjoy going deep into how systems actually work, from writing clean business logic to understanding how scalable and distributed systems are designed. Over time, I’ve developed a solid foundation in **core and advanced Java**, and I’m currently exploring **microservices architecture and backend scalability**. I’m particularly interested in how large-scale applications are built, deployed, and maintained in real-world environments.
 
-- authored multiple articles on GeeksForGeeks and other technical content writing platforms.
-- currently enhancing Java Backend Development skills, with a focus on building scalable applications.
-- strong expertise in the MERN stack and Frontend Development.
-- currently working on <a href="https://github.com/riya-rjha/TrendSpire-E-CommerceSite" style="font-size: 1.5rem; font-weight: bold; color: #ff6600; text-decoration: none; letter-spacing: 1px; transition: color 0.3s, transform 0.3s;" onmouseover="this.style.color='#ff3300'; this.style.transform='scale(1.1)';" onmouseout="this.style.color='#ff6600'; this.style.transform='scale(1)';">TrendSpire</a>
-- passionate about reading books and staying updated on political news.
+Alongside backend development, I also have experience with the **MERN stack**, which helps me understand full-stack systems end-to-end.
+
+---
+
+### 🔹 What I’m Currently Focused On
+
+* Building and improving **Java backend systems** using Spring Boot
+* Exploring **microservices architecture & distributed systems design**
+* Strengthening **advanced Java concepts** (multithreading, collections, JVM internals)
+* Learning and working with **Docker & Kubernetes** for containerization and orchestration
+* Understanding **CI/CD pipelines** using tools like Jenkins
+* Improving code quality practices using **SonarQube**
+
+---
+
+### 🔹 Other Things About Me
+
+* I’ve authored multiple technical articles on **GeeksforGeeks** and other platforms
+* I enjoy simplifying complex technical concepts through writing
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=riya-rjha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
