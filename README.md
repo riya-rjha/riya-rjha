@@ -1,5 +1,6 @@
 ## Heyy! 👋
 
+
 ## 💫 About Me
 
 I’m a Software Developer with a strong focus on **Backend Development using Java and Spring Boot**. I enjoy going deep into how systems actually work, from writing clean business logic to understanding how scalable and distributed systems are designed. Over time, I’ve developed a solid foundation in **core and advanced Java**, and I’m currently exploring **microservices architecture and backend scalability**. I’m particularly interested in how large-scale applications are built, deployed, and maintained in real-world environments.
@@ -45,38 +46,5 @@ Alongside backend development, I also have experience with the **MERN stack**, w
 ### Programming Languages  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
-## 🌐 Socials
-
-<div id="badges">
-  <a href="www.linkedin.com/in/riyarjha">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://x.com/riya_rjha">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <!-- LeetCode Badge -->
-  <a href="https://leetcode.com/riyarjha" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
-  </a>
-  <!-- GeeksforGeeks Badge -->
-  <a href="https://auth.geeksforgeeks.org/user/riyarjha/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
-  </a>
-</div>
-
-
-##  :fire: My Stats 
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=riya-rjha" alt="GitHub Streak" /></a>
-<!-- Learning & Projects Section -->
-
-
-## :chart_with_upwards_trend: GitHub Analytics:
-![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=riya-rjha&show_icons=true&theme=dark)&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riya-rjha&layout=donut)](https://github.com/riya-rjha/github-readme-stats) 
-
 
 Feel free to explore my repositories and connect with me on [LinkedIn](www.linkedin.com/in/riyarjha) or [Twitter](https://x.com/riya_rjha)!
-
-Here's my resume for more details: <a href="https://drive.google.com/file/d/1N_595NLXrAQzfKQ1I0dxC5oOpjTzNkWr/view" target="_blank">RESUME</a>
-
