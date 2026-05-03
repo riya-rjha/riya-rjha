@@ -1,7 +1,7 @@
 ## Heyy! 👋
 
 
-## 💫 About Me
+## 🔹 About Me
 
 I’m a Software Developer with a strong focus on **Backend Development using Java and Spring Boot**. I enjoy going deep into how systems actually work, from writing clean business logic to understanding how scalable and distributed systems are designed. Over time, I’ve developed a solid foundation in **core and advanced Java**, and I’m currently exploring **microservices architecture and backend scalability**. I’m particularly interested in how large-scale applications are built, deployed, and maintained in real-world environments.
 
